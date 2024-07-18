@@ -4,6 +4,7 @@ from slapping.slap_that_like_button import LikeState, slap_many
 
 def test_empty_slap():
     # hello
+    # hello
     assert slap_many(LikeState.empty, '') is LikeState.empty
 
 
