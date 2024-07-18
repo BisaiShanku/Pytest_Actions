@@ -1,0 +1,5 @@
+1. Downloaded the code from the repo -->https://github.com/mCodingLLC/SlapThatLikeButton-TestingStarterProject
+2. Created a virtual environment with the name .venv
+3. be in Pytest_Actions and give the command -> pip install -e .
+this command will install the slapping library into the current virtual environment
+4. Now we install the requirements_dev txt file. this is to just locally that we dont have any error
