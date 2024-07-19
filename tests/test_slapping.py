@@ -6,6 +6,7 @@ def test_empty_slap():
     # hello
     # hello
     # branch AOS-123456
+    #hello
     assert slap_many(LikeState.empty, '') is LikeState.empty
 
 
